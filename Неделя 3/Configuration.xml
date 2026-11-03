@@ -259,6 +259,7 @@
 			<Document>ПоступлениеТоваров</Document>
 			<Document>РеализацияТоваров</Document>
 			<Report>ОборотыПоТоварам</Report>
+			<Report>ОстаткиТоваров</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>СтоимостьТоваров</AccumulationRegister>
