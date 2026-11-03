@@ -256,14 +256,18 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ВариантыТоваров</Catalog>
+			<Catalog>ДополнительныеСвойстваТоваров</Catalog>
 			<Document>ПоступлениеТоваров</Document>
 			<Document>РеализацияТоваров</Document>
 			<Report>ОборотыПоТоварам</Report>
 			<Report>ОстаткиТоваров</Report>
 			<InformationRegister>Цены</InformationRegister>
+			<InformationRegister>ЗначенияСвойствТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>СтоимостьТоваров</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<ChartOfCharacteristicTypes>СвойстваТоваров</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

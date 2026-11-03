@@ -106,6 +106,13 @@
 					<ContextMenu name="ТоварыТоварКонтекстноеМеню" id="27"/>
 					<ExtendedTooltip name="ТоварыТоварРасширеннаяПодсказка" id="28"/>
 				</InputField>
+				<InputField name="ТоварыНаборСвойств" id="43">
+					<DataPath>Объект.Товары.НаборСвойств</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ТоварыНаборСвойствКонтекстноеМеню" id="44"/>
+					<ExtendedTooltip name="ТоварыНаборСвойствРасширеннаяПодсказка" id="45"/>
+				</InputField>
 				<InputField name="ТоварыКоличество" id="29">
 					<DataPath>Объект.Товары.Количество</DataPath>
 					<EditMode>EnterOnInput</EditMode>
