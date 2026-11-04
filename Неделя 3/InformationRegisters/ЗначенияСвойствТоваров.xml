@@ -104,7 +104,7 @@
 					<ChoiceParameterLinks>
 						<xr:Link>
 							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойств</xr:DataPath>
+							<xr:DataPath xsi:type="xs:string">InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойства</xr:DataPath>
 							<xr:ValueChange>Clear</xr:ValueChange>
 						</xr:Link>
 					</ChoiceParameterLinks>
@@ -113,7 +113,7 @@
 					<CreateOnInput>Auto</CreateOnInput>
 					<ChoiceForm/>
 					<LinkByType>
-						<xr:DataPath>InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойств</xr:DataPath>
+						<xr:DataPath>InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойства</xr:DataPath>
 						<xr:LinkItem>0</xr:LinkItem>
 					</LinkByType>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
@@ -167,11 +167,11 @@
 			</Dimension>
 			<Dimension uuid="0ab8f431-baa5-4b6a-a088-825ae14eabdd">
 				<Properties>
-					<Name>ВидСвойств</Name>
+					<Name>ВидСвойства</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Вид свойств</v8:content>
+							<v8:content>Вид свойства</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

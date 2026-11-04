@@ -109,13 +109,6 @@
 						<Event name="OnChange">ТоварыТоварПриИзменении</Event>
 					</Events>
 				</InputField>
-				<InputField name="ТоварыСтоимость" id="43">
-					<DataPath>Объект.Товары.Стоимость</DataPath>
-					<EditMode>EnterOnInput</EditMode>
-					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-					<ContextMenu name="ТоварыСтоимостьКонтекстноеМеню" id="44"/>
-					<ExtendedTooltip name="ТоварыСтоимостьРасширеннаяПодсказка" id="45"/>
-				</InputField>
 				<InputField name="ТоварыКоличество" id="29">
 					<DataPath>Объект.Товары.Количество</DataPath>
 					<EditMode>EnterOnInput</EditMode>

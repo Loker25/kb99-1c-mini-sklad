@@ -61,7 +61,7 @@
 					</xr:CharacteristicTypes>
 					<xr:CharacteristicValues from="InformationRegister.ЗначенияСвойствТоваров">
 						<xr:ObjectField>InformationRegister.ЗначенияСвойствТоваров.Dimension.НаборСвойств</xr:ObjectField>
-						<xr:TypeField>InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойств</xr:TypeField>
+						<xr:TypeField>InformationRegister.ЗначенияСвойствТоваров.Dimension.ВидСвойства</xr:TypeField>
 						<xr:ValueField>InformationRegister.ЗначенияСвойствТоваров.Resource.Значение</xr:ValueField>
 						<xr:MultipleValuesKeyField>-1</xr:MultipleValuesKeyField>
 						<xr:MultipleValuesOrderField>-1</xr:MultipleValuesOrderField>
