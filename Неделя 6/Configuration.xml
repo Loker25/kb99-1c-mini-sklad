@@ -259,6 +259,7 @@
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСоСправочниками</CommonModule>
 			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<HTTPService>ОбменДанными</HTTPService>
 			<ScheduledJob>КонтрольМинимальныхОстатков</ScheduledJob>
 			<ScheduledJob>ОбновлениеСтатистикиДокументов</ScheduledJob>
 			<Catalog>Товары</Catalog>
